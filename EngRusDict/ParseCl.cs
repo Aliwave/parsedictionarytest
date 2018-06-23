@@ -16,18 +16,6 @@ namespace EngRusDict
     class ParseCl
     {
         static object Locker = new object();
-        //public Dictionary<string, List<string>> valuePairs;
-        //public string link;
-        //public string htm;
-        //public string html1;
-        //public ParseCl(string link1,string htm1,string html2,Dictionary<string,List<string>> value)
-        //{
-        //    link = link1;
-        //    htm = htm1;
-        //    html1 = html2;
-        //    valuePairs = value;
-
-        //}
         public void Web(string link, ref string htm)
         {
             var webClient = new System.Net.WebClient();
