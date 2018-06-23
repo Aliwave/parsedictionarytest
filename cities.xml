@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maindoc>
+	<amount>8</amount>
+	<countries>
+		<country name="Россия">
+			<city>Санкт-Петербург</city>
+			<city>Москва</city>
+			<city>Архангельск</city>
+		</country>
+		<country name="США">
+			<city>Нью-Йорк</city>
+			<city>Вашингтон</city>
+			<city>Чикаго</city>
+			<city>Лос-Анджелес</city>
+			<city>Финикс</city>
+			<city>Филадельфия</city>
+			<city>Даллас</city>
+		</country>
+		<country name="Чехия">
+			<city>Прага</city>
+			<city>Брно</city>
+			<city>Острава</city>
+			<city>Мост</city>
+			<city>Кладно</city>
+			<city>Дечин</city>
+		</country>
+		<country name="Япония">
+			<city>Токио</city>
+			<city>Иокогама</city>
+			<city>Осака</city>
+			<city>Нагоя</city>
+			<city>Киото</city>
+			<city>Фукуока</city>
+			<city>Сагамихара</city>
+		</country>
+		<country name="Швеция">
+			<city>Стокгольм</city>
+			<city>Мальмё</city>
+			<city>Эребру</city>
+			<city>Умео</city>
+			<city>Лунд</city>
+			<city>Бурос</city>
+			<city>Евле</city>
+		</country>
+		<country name="Финляндия">
+			<city>Хельсинки</city>
+			<city>Вантаа</city>
+			<city>Оулу</city>
+			<city>Лахти</city>
+			<city>Пори</city>
+			<city>Вааса</city>
+			<city>Котка</city>
+			<city>Миккели</city>
+		</country>
+		<country name="Германия">
+			<city>Берлин</city>
+			<city>Гамбург</city>
+			<city>Мюнхен</city>
+			<city>Кёльн</city>
+			<city>Штутгарт</city>
+			<city>Дортмунд</city>
+			<city>Эссен</city>
+			<city>Бремен</city>
+		</country>
+		<country name="Бразилия">
+			<city>Сан-Паулу</city>
+			<city>Бразилиа</city>
+			<city>Рио-де-Жанейро</city>
+			<city>Сан-Луис</city>
+			<city>Терезина</city>
+		</country>
+	</countries>
+</maindoc>
